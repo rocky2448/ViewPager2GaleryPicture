@@ -31,8 +31,9 @@
 
         <ImageView
             android:id="@+id/viewPagerIV"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_gravity="center"/>
 
         <TextView
             android:id="@+id/viewAuthorTV"
